@@ -1,3 +1,3 @@
-## 👋 Hi, I'm Corbin Xu
+## 👋 Hi, I'm Corbin Xu.
 
-Corporate drone by day, coding for fun by night。
+Corporate drone by day, coding for fun by night.
