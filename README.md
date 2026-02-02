@@ -10,4 +10,4 @@
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,pr,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,css,html,js,pr,python)](https://skillicons.dev)
