@@ -4,7 +4,6 @@
 
 ## Tech Stack
 
-
 ### Proficient
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
