@@ -4,4 +4,4 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,ai,ps,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,css,html,ps)](https://skillicons.dev)
