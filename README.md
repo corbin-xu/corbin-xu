@@ -1,3 +1,3 @@
 # 👋 Hi, I'm Corbin Xu.
 
-Corporate drone by day, coding for fun by night.
+“Give whatever warmth you have, and shine whatever light you can.”
