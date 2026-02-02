@@ -7,7 +7,6 @@
 ### Proficient
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
-
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,pr)](https://skillicons.dev)
