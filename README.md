@@ -6,7 +6,7 @@
 
 ### Proficient
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,figma,ps)](https://skillicons.dev)
 
 ### Learning
 
