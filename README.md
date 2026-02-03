@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Corbin Xu.
 
-## Tech Stack
+## Skills
 
 ### Proficient
 
